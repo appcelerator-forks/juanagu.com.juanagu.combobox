@@ -1,0 +1,13 @@
+{
+	"id": "com.juanagu.combobox",
+	"name": "com.juanagu.combobox",
+	"description": "custom combobox",
+	"author": "jagu",
+	"version": "1.0",
+	"copyright": "JuanAgu (c) 2016",
+	"license": "Apache 2.0",
+	"min-alloy-version": "1.0",
+	"min-titanium-version": "2.1",
+	"tags": "",
+	"platforms": "ios,android"
+}

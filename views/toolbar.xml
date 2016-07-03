@@ -1,0 +1,12 @@
+<Alloy>
+	<View id="toolbar">
+		<Toolbar id="tlb_options" platform="ios">
+			<Items>
+				<Button id="btn_accept"/>
+				<FlexSpace/>
+				<Button id="btn_cancel" />
+			</Items>
+		</Toolbar>
+		<Picker id="picker"/>
+	</View>
+</Alloy>

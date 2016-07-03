@@ -1,0 +1,7 @@
+<Alloy>
+	<Picker id="picker" type="Titanium.UI.PICKER_TYPE_PLAIN" platform="android"/>
+	<View id="touch" platform="ios">
+		<Label id="picker"/>
+		<Button id="btn_open_toolbar"/>
+	</View>
+</Alloy>

@@ -1,0 +1,25 @@
+"#toolbar":{
+	bottom: -300,
+	visible: false,
+	height:Ti.UI.SIZE,
+	width:Ti.UI.FILL,
+	layout: 'vertical',
+	backgroundColor: 'white'
+},
+"#tlb_options":{
+	borderTop: true,
+	borderBottom: false
+},
+"#btn_accept":{
+	title:L( 'accept' , 'Accept'),
+	style: Titanium.UI.iOS.SystemButtonStyle.DONE
+},
+"#btn_cancel":{
+	title:L( 'cancel' , 'Cancel')
+},
+"#picker":{
+	width:Ti.UI.SIZE,
+	height:Ti.UI.SIZE,
+	bottom: 0,
+	top: 0
+}

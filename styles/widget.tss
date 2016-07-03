@@ -1,0 +1,20 @@
+"#picker[platform=android]":{
+	selectionIndicator: true
+},
+"#touch":{
+	height: '44dp',
+	width:Ti.UI.FILL
+},
+"#picker":{
+	left: 0
+},
+"#picker[platform=ios]":{
+	right: '30dp',
+	width:Ti.UI.FILL
+},
+"#btn_open_toolbar[platform=ios]":{
+	right: '10dp',
+	style: Ti.UI.iOS.SystemButtonStyle.PLAIN,
+	image: '/images/ic_arrow_down.png',
+	backgroundColor:'transparent'
+}
